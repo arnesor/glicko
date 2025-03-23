@@ -1,0 +1,22 @@
+{
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_jinja2_env_vars": {
+    "lstrip_blocks": true,
+    "trim_blocks": true
+  },
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Arne S\u00f8rli",
+  "code_quality_level": "Medium",
+  "copyright_owner": "Arne S\u00f8rli",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "arne.sorli@kongsberg.frisurf.no",
+  "friendly_name": "Glicko",
+  "github_organization": "arnesor",
+  "license": "MIT",
+  "package_name": "glicko",
+  "project_name": "glicko",
+  "version": "0.0.1"
+}

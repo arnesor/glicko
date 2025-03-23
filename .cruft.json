@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "commit": "0d33fca0d1c29c79aef9c7053e36d9e7cdd2bd20",
+  "checkout": "2025.2.19",
+  "context": {
+    "cookiecutter": {
+      "project_name": "glicko",
+      "package_name": "glicko",
+      "friendly_name": "Glicko",
+      "copyright_owner": "Arne Sørli",
+      "copyright_year": "2025",
+      "author": "Arne Sørli",
+      "email": "arne.sorli@kongsberg.frisurf.no",
+      "github_organization": "arnesor",
+      "version": "0.0.1",
+      "license": "MIT",
+      "development_status": "Development Status :: 4 - Beta",
+      "code_quality_level": "Medium",
+      "_copy_without_render": [
+        "*.rst_t"
+      ],
+      "_jinja2_env_vars": {
+        "lstrip_blocks": true,
+        "trim_blocks": true
+      },
+      "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git"
+    }
+  },
+  "directory": null
+}
