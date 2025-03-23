@@ -145,4 +145,3 @@ classmethod-decorators = ["classmethod", "validator", "root_validator", "pydanti
     "D103",
     "S101",    # asserts are encouraged in pytest
 ]
-
