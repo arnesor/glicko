@@ -1,0 +1,241 @@
+Date,Round,HomeTeam,AwayTeam,Result,Outcome
+2023-04-10,1,Bryne,Kongsvinger,2-1,1.0
+2023-04-10,1,Hødd,Raufoss,1-0,1.0
+2023-04-10,1,Jerv,Ranheim,1-2,0.0
+2023-04-10,1,KFUM Oslo,Sogndal,1-1,0.5
+2023-04-10,1,Kristiansund,Fredrikstad,0-1,0.0
+2023-04-10,1,Mjøndalen,Åsane,0-0,0.5
+2023-04-10,1,Moss,Start,0-0,0.5
+2023-04-10,1,Sandnes Ulf,Skeid,4-1,1.0
+2023-04-15,2,Ranheim,Bryne,2-1,1.0
+2023-04-15,2,Sogndal,Sandnes Ulf,1-0,1.0
+2023-04-16,2,Fredrikstad,Moss,1-1,0.5
+2023-04-16,2,Kongsvinger,Mjøndalen,2-0,1.0
+2023-04-16,2,Raufoss,KFUM Oslo,4-0,1.0
+2023-04-16,2,Skeid,Hødd,1-1,0.5
+2023-04-16,2,Start,Kristiansund,4-0,1.0
+2023-04-16,2,Åsane,Jerv,1-2,0.0
+2023-04-22,3,Hødd,Åsane,1-1,0.5
+2023-04-22,3,Jerv,Skeid,3-2,1.0
+2023-04-22,3,Kristiansund,Kongsvinger,2-0,1.0
+2023-04-22,3,Sandnes Ulf,Raufoss,0-0,0.5
+2023-04-23,3,Bryne,Start,2-2,0.5
+2023-04-23,3,KFUM Oslo,Ranheim,0-1,0.0
+2023-04-23,3,Moss,Sogndal,1-2,0.0
+2023-04-24,3,Mjøndalen,Fredrikstad,0-1,0.0
+2023-04-29,4,Mjøndalen,Kristiansund,1-3,0.0
+2023-04-29,4,Ranheim,Skeid,0-4,0.0
+2023-04-29,4,Sogndal,Bryne,2-2,0.5
+2023-04-30,4,Fredrikstad,Sandnes Ulf,0-0,0.5
+2023-04-30,4,Kongsvinger,Hødd,0-3,0.0
+2023-04-30,4,Moss,Jerv,2-1,1.0
+2023-04-30,4,Start,Raufoss,1-3,0.0
+2023-04-30,4,Åsane,KFUM Oslo,1-1,0.5
+2023-05-03,5,Bryne,Fredrikstad,0-0,0.5
+2023-05-03,5,Hødd,Ranheim,0-0,0.5
+2023-05-03,5,Jerv,Mjøndalen,2-3,0.0
+2023-05-03,5,KFUM Oslo,Start,2-2,0.5
+2023-05-03,5,Kristiansund,Sogndal,2-1,1.0
+2023-05-03,5,Raufoss,Åsane,0-0,0.5
+2023-05-03,5,Sandnes Ulf,Kongsvinger,1-2,0.0
+2023-05-03,5,Skeid,Moss,2-2,0.5
+2023-05-06,6,Kristiansund,Bryne,3-1,1.0
+2023-05-06,6,Mjøndalen,KFUM Oslo,2-2,0.5
+2023-05-06,6,Ranheim,Åsane,3-2,1.0
+2023-05-06,6,Sogndal,Raufoss,2-1,1.0
+2023-05-07,6,Fredrikstad,Skeid,0-0,0.5
+2023-05-07,6,Kongsvinger,Jerv,2-1,1.0
+2023-05-07,6,Moss,Sandnes Ulf,1-0,1.0
+2023-05-07,6,Start,Hødd,4-2,1.0
+2023-05-12,7,Sandnes Ulf,Kristiansund,1-1,0.5
+2023-05-13,7,Bryne,Mjøndalen,2-1,1.0
+2023-05-13,7,Hødd,Moss,1-1,0.5
+2023-05-13,7,Jerv,Fredrikstad,1-1,0.5
+2023-05-13,7,KFUM Oslo,Kongsvinger,2-0,1.0
+2023-05-13,7,Raufoss,Ranheim,0-0,0.5
+2023-05-13,7,Skeid,Start,1-4,0.0
+2023-05-13,7,Åsane,Sogndal,2-3,0.0
+2023-05-16,8,Moss,Åsane,1-0,1.0
+2023-05-16,8,Bryne,Jerv,0-0,0.5
+2023-05-16,8,Fredrikstad,KFUM Oslo,1-0,1.0
+2023-05-16,8,Kongsvinger,Skeid,5-0,1.0
+2023-05-16,8,Kristiansund,Ranheim,3-2,1.0
+2023-05-16,8,Mjøndalen,Raufoss,3-0,1.0
+2023-05-16,8,Sogndal,Hødd,1-0,1.0
+2023-05-16,8,Start,Sandnes Ulf,3-3,0.5
+2023-05-20,9,Sandnes Ulf,Bryne,2-0,1.0
+2023-05-21,9,Hødd,Fredrikstad,1-1,0.5
+2023-05-21,9,Jerv,Kristiansund,1-1,0.5
+2023-05-21,9,KFUM Oslo,Moss,4-2,1.0
+2023-05-21,9,Ranheim,Sogndal,2-0,1.0
+2023-05-21,9,Raufoss,Kongsvinger,1-2,0.0
+2023-05-21,9,Skeid,Mjøndalen,0-2,0.0
+2023-05-21,9,Åsane,Start,2-2,0.5
+2023-05-29,10,Bryne,KFUM Oslo,0-1,0.0
+2023-05-29,10,Fredrikstad,Åsane,2-1,1.0
+2023-05-29,10,Jerv,Hødd,2-1,1.0
+2023-05-29,10,Kongsvinger,Sogndal,1-0,1.0
+2023-05-29,10,Kristiansund,Skeid,2-2,0.5
+2023-05-29,10,Mjøndalen,Sandnes Ulf,1-3,0.0
+2023-05-29,10,Moss,Raufoss,1-0,1.0
+2023-05-29,10,Start,Ranheim,2-1,1.0
+2023-06-04,11,Hødd,Mjøndalen,1-2,0.0
+2023-06-04,11,KFUM Oslo,Kristiansund,2-0,1.0
+2023-06-04,11,Ranheim,Moss,2-1,1.0
+2023-06-04,11,Raufoss,Fredrikstad,1-1,0.5
+2023-06-04,11,Sandnes Ulf,Jerv,2-3,0.0
+2023-06-04,11,Skeid,Bryne,2-0,1.0
+2023-06-04,11,Sogndal,Start,2-1,1.0
+2023-06-04,11,Åsane,Kongsvinger,1-2,0.0
+2023-06-10,12,Jerv,Raufoss,1-0,1.0
+2023-06-10,12,Kristiansund,Moss,4-1,1.0
+2023-06-10,12,Mjøndalen,Sogndal,0-0,0.5
+2023-06-11,12,Bryne,Åsane,1-2,0.0
+2023-06-11,12,Fredrikstad,Start,3-1,1.0
+2023-06-11,12,Kongsvinger,Ranheim,3-0,1.0
+2023-06-11,12,Sandnes Ulf,Hødd,1-3,0.0
+2023-06-11,12,Skeid,KFUM Oslo,0-4,0.0
+2023-06-23,13,Start,Jerv,2-1,1.0
+2023-06-24,13,Hødd,Bryne,0-1,0.0
+2023-06-24,13,Ranheim,Mjøndalen,2-3,0.0
+2023-06-24,13,Sogndal,Fredrikstad,0-1,0.0
+2023-06-25,13,KFUM Oslo,Sandnes Ulf,3-1,1.0
+2023-06-25,13,Moss,Kongsvinger,0-1,0.0
+2023-06-25,13,Raufoss,Skeid,1-0,1.0
+2023-06-25,13,Åsane,Kristiansund,2-2,0.5
+2023-07-01,14,Jerv,KFUM Oslo,4-3,1.0
+2023-07-01,14,Kristiansund,Hødd,4-0,1.0
+2023-07-01,14,Mjøndalen,Moss,1-2,0.0
+2023-07-01,14,Sandnes Ulf,Åsane,3-3,0.5
+2023-07-01,14,Skeid,Sogndal,2-4,0.0
+2023-07-02,14,Bryne,Raufoss,4-1,1.0
+2023-07-02,14,Fredrikstad,Ranheim,4-0,1.0
+2023-07-02,14,Kongsvinger,Start,2-1,1.0
+2023-07-08,15,Hødd,KFUM Oslo,0-1,0.0
+2023-07-08,15,Ranheim,Sandnes Ulf,0-5,0.0
+2023-07-08,15,Raufoss,Kristiansund,3-2,1.0
+2023-07-08,15,Sogndal,Jerv,5-1,1.0
+2023-07-08,15,Start,Mjøndalen,3-0,1.0
+2023-07-09,15,Fredrikstad,Kongsvinger,1-1,0.5
+2023-07-09,15,Moss,Bryne,2-1,1.0
+2023-07-09,15,Åsane,Skeid,0-0,0.5
+2023-08-04,16,Skeid,Fredrikstad,1-2,0.0
+2023-08-05,16,Jerv,Moss,1-1,0.5
+2023-08-05,16,Kristiansund,Start,1-1,0.5
+2023-08-05,16,Mjøndalen,Hødd,3-0,1.0
+2023-08-06,16,Bryne,Ranheim,1-0,1.0
+2023-08-06,16,KFUM Oslo,Åsane,2-1,1.0
+2023-08-06,16,Kongsvinger,Raufoss,1-3,0.0
+2023-08-06,16,Sandnes Ulf,Sogndal,1-2,0.0
+2023-08-09,17,Fredrikstad,Bryne,2-1,1.0
+2023-08-09,17,Moss,KFUM Oslo,0-1,0.0
+2023-08-09,17,Ranheim,Kongsvinger,1-4,0.0
+2023-08-09,17,Raufoss,Jerv,2-3,0.0
+2023-08-09,17,Start,Skeid,3-0,1.0
+2023-08-09,17,Åsane,Mjøndalen,3-2,1.0
+2023-08-13,18,Bryne,Hødd,2-1,1.0
+2023-08-13,18,KFUM Oslo,Fredrikstad,2-1,1.0
+2023-08-13,18,Kongsvinger,Åsane,3-1,1.0
+2023-08-13,18,Kristiansund,Jerv,3-1,1.0
+2023-08-13,18,Mjøndalen,Ranheim,1-2,0.0
+2023-08-13,18,Sandnes Ulf,Moss,2-0,1.0
+2023-08-13,18,Skeid,Raufoss,1-2,0.0
+2023-08-13,18,Start,Sogndal,2-0,1.0
+2023-08-19,19,Hødd,Skeid,2-0,1.0
+2023-08-19,19,Jerv,Sandnes Ulf,0-2,0.0
+2023-08-19,19,Ranheim,KFUM Oslo,4-2,1.0
+2023-08-19,19,Sogndal,Kongsvinger,3-3,0.5
+2023-08-20,19,Fredrikstad,Kristiansund,4-1,1.0
+2023-08-20,19,Moss,Mjøndalen,4-1,1.0
+2023-08-20,19,Raufoss,Start,2-1,1.0
+2023-08-20,19,Åsane,Bryne,2-1,1.0
+2023-08-23,20,Bryne,Moss,3-1,1.0
+2023-08-23,20,KFUM Oslo,Hødd,0-1,0.0
+2023-08-23,20,Kongsvinger,Fredrikstad,1-2,0.0
+2023-08-23,20,Kristiansund,Sandnes Ulf,0-1,0.0
+2023-08-23,20,Mjøndalen,Jerv,2-2,0.5
+2023-08-23,20,Raufoss,Sogndal,3-0,1.0
+2023-08-23,20,Skeid,Ranheim,0-1,0.0
+2023-08-23,20,Start,Åsane,1-0,1.0
+2023-08-27,21,Ranheim,Start,0-0,0.5
+2023-08-27,21,Fredrikstad,Hødd,1-0,1.0
+2023-08-27,21,Jerv,Bryne,1-3,0.0
+2023-08-27,21,Kongsvinger,KFUM Oslo,1-1,0.5
+2023-08-27,21,Sandnes Ulf,Mjøndalen,1-0,1.0
+2023-08-27,21,Sogndal,Skeid,2-0,1.0
+2023-08-27,21,Åsane,Raufoss,3-1,1.0
+2023-08-28,21,Moss,Kristiansund,0-3,0.0
+2023-09-01,22,Skeid,Åsane,1-3,0.0
+2023-09-02,22,Hødd,Kongsvinger,2-1,1.0
+2023-09-02,22,Kristiansund,Mjøndalen,0-0,0.5
+2023-09-02,22,Sogndal,Ranheim,1-2,0.0
+2023-09-03,22,Bryne,Sandnes Ulf,3-0,1.0
+2023-09-03,22,KFUM Oslo,Jerv,6-2,1.0
+2023-09-03,22,Raufoss,Moss,1-1,0.5
+2023-09-03,22,Start,Fredrikstad,2-2,0.5
+2023-09-15,23,Ranheim,Raufoss,1-3,0.0
+2023-09-16,23,Sandnes Ulf,KFUM Oslo,1-2,0.0
+2023-09-16,23,Jerv,Start,0-1,0.0
+2023-09-17,23,Fredrikstad,Sogndal,2-1,1.0
+2023-09-17,23,Kongsvinger,Kristiansund,1-1,0.5
+2023-09-17,23,Mjøndalen,Bryne,2-1,1.0
+2023-09-17,23,Moss,Skeid,3-0,1.0
+2023-09-17,23,Åsane,Hødd,1-0,1.0
+2023-09-23,24,Hødd,Jerv,2-2,0.5
+2023-09-23,24,Ranheim,Fredrikstad,1-2,0.0
+2023-09-23,24,Skeid,Kongsvinger,1-2,0.0
+2023-09-23,24,Sogndal,Åsane,1-1,0.5
+2023-09-24,24,Bryne,Kristiansund,1-1,0.5
+2023-09-24,24,KFUM Oslo,Mjøndalen,1-0,1.0
+2023-09-24,24,Raufoss,Sandnes Ulf,1-1,0.5
+2023-09-24,24,Start,Moss,0-0,0.5
+2023-09-27,17,Hødd,Sandnes Ulf,1-1,0.5
+2023-09-30,25,Jerv,Sogndal,1-3,0.0
+2023-09-30,25,Kristiansund,KFUM Oslo,0-2,0.0
+2023-09-30,25,Mjøndalen,Skeid,2-0,1.0
+2023-09-30,25,Sandnes Ulf,Start,1-0,1.0
+2023-10-01,25,Fredrikstad,Raufoss,3-0,1.0
+2023-10-01,25,Kongsvinger,Bryne,1-3,0.0
+2023-10-01,25,Moss,Hødd,3-0,1.0
+2023-10-01,25,Åsane,Ranheim,3-0,1.0
+2023-10-04,17,Sogndal,Kristiansund,2-4,0.0
+2023-10-07,26,Raufoss,Mjøndalen,0-0,0.5
+2023-10-07,26,Skeid,Sandnes Ulf,3-0,1.0
+2023-10-07,26,Sogndal,Moss,2-1,1.0
+2023-10-07,26,Hødd,Kristiansund,0-1,0.0
+2023-10-08,26,KFUM Oslo,Bryne,1-0,1.0
+2023-10-08,26,Ranheim,Jerv,4-2,1.0
+2023-10-08,26,Start,Kongsvinger,2-1,1.0
+2023-10-08,26,Åsane,Fredrikstad,0-4,0.0
+2023-10-21,27,Hødd,Sogndal,2-2,0.5
+2023-10-21,27,Jerv,Kongsvinger,0-2,0.0
+2023-10-21,27,Kristiansund,Åsane,4-1,1.0
+2023-10-21,27,Mjøndalen,Start,2-0,1.0
+2023-10-21,27,Sandnes Ulf,Fredrikstad,2-3,0.0
+2023-10-22,27,Bryne,Skeid,1-0,1.0
+2023-10-22,27,KFUM Oslo,Raufoss,0-0,0.5
+2023-10-22,27,Moss,Ranheim,0-1,0.0
+2023-10-28,28,Ranheim,Kristiansund,0-2,0.0
+2023-10-28,28,Skeid,Jerv,0-1,0.0
+2023-10-28,28,Sogndal,KFUM Oslo,0-3,0.0
+2023-10-29,28,Fredrikstad,Mjøndalen,1-2,0.0
+2023-10-29,28,Kongsvinger,Sandnes Ulf,4-0,1.0
+2023-10-29,28,Raufoss,Hødd,0-1,0.0
+2023-10-29,28,Start,Bryne,2-0,1.0
+2023-10-29,28,Åsane,Moss,2-1,1.0
+2023-11-05,29,Bryne,Sogndal,2-1,1.0
+2023-11-05,29,Hødd,Start,2-1,1.0
+2023-11-05,29,Jerv,Åsane,0-0,0.5
+2023-11-05,29,KFUM Oslo,Skeid,1-0,1.0
+2023-11-05,29,Kristiansund,Raufoss,1-2,0.0
+2023-11-05,29,Mjøndalen,Kongsvinger,2-3,0.0
+2023-11-05,29,Moss,Fredrikstad,2-2,0.5
+2023-11-05,29,Sandnes Ulf,Ranheim,3-2,1.0
+2023-11-12,30,Fredrikstad,Jerv,1-0,1.0
+2023-11-12,30,Kongsvinger,Moss,1-2,0.0
+2023-11-12,30,Ranheim,Hødd,0-0,0.5
+2023-11-12,30,Raufoss,Bryne,0-1,0.0
+2023-11-12,30,Skeid,Kristiansund,0-5,0.0
+2023-11-12,30,Sogndal,Mjøndalen,1-1,0.5
+2023-11-12,30,Start,KFUM Oslo,1-1,0.5
+2023-11-12,30,Åsane,Sandnes Ulf,2-0,1.0

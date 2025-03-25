@@ -1,5 +1,6 @@
 import re
 import time
+from pathlib import Path
 
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -127,7 +128,8 @@ def scrape_nifs_all(url: str) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
+    data_dir = Path(__file__).parent.parent.parent / "data"
     # Results from Norway soccer league, level 2, 2024
     url = "https://www.nifs.no/kamper.php?countryId=1&tournamentId=6&stageId=694962"
     df = scrape_nifs_all(url)
-    df.to_csv("norway_obos_2024.csv", index=False)
+    df.to_csv(data_dir / "soccer_norway_level2_2023.csv", index=False)
