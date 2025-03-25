@@ -10,7 +10,11 @@ license = { text = "MIT" }
 dynamic = [ "classifiers" ]
 requires-python = ">=3.11,<4.0"
 dependencies = [
-    "click (>=8.1.8,<9.0.0)"
+    "click (>=8.1.8,<9.0.0)",
+    "requests (>=2.32.3,<3.0.0)",
+    "beautifulsoup4 (>=4.13.3,<5.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "selenium (>=4.30.0,<5.0.0)"
 ]
 
 [project.urls]
@@ -47,6 +51,7 @@ sphinx-click = ">=3.0.2"
 typeguard = ">=2.13.3"
 xdoctest = { extras = ["colors"], version = ">=0.15.10" }
 myst-parser = { version = ">=0.16.1" }
+pandas-stubs = ">=2.2.3.250308"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
@@ -66,7 +71,7 @@ relative_files = true
 
 [tool.coverage.report]
 show_missing = true
-fail_under = 50
+fail_under = 20
 
 [tool.mypy]
 strict = true

@@ -1,0 +1,241 @@
+Date,Round,HomeTeam,AwayTeam,Result,Outcome
+2024-04-01,1,Aalesund,Stabæk,1-1,0.5
+2024-04-01,1,Bryne,Start,3-1,1.0
+2024-04-01,1,Kongsvinger,Ranheim,2-1,1.0
+2024-04-01,1,Mjøndalen,Raufoss,1-1,0.5
+2024-04-01,1,Moss,Lyn,3-0,1.0
+2024-04-01,1,Sandnes Ulf,Egersund,3-4,0.0
+2024-04-01,1,Vålerenga,Sogndal,1-1,0.5
+2024-04-01,1,Åsane,Levanger,2-2,0.5
+2024-04-06,2,Levanger,Moss,5-0,1.0
+2024-04-06,2,Ranheim,Sandnes Ulf,3-1,1.0
+2024-04-06,2,Raufoss,Vålerenga,1-2,0.0
+2024-04-06,2,Sogndal,Mjøndalen,3-1,1.0
+2024-04-06,2,Stabæk,Bryne,1-0,1.0
+2024-04-06,2,Start,Aalesund,1-3,0.0
+2024-04-07,2,Lyn,Kongsvinger,1-1,0.5
+2024-04-14,3,Vålerenga,Stabæk,1-3,0.0
+2024-04-15,3,Aalesund,Lyn,0-3,0.0
+2024-04-15,3,Bryne,Levanger,0-1,0.0
+2024-04-15,3,Kongsvinger,Egersund,3-3,0.5
+2024-04-15,3,Mjøndalen,Start,1-1,0.5
+2024-04-15,3,Moss,Ranheim,2-1,1.0
+2024-04-15,3,Sandnes Ulf,Raufoss,2-0,1.0
+2024-04-15,3,Åsane,Sogndal,1-1,0.5
+2024-04-20,4,Egersund,Aalesund,3-1,1.0
+2024-04-20,4,Levanger,Kongsvinger,1-2,0.0
+2024-04-20,4,Ranheim,Åsane,2-2,0.5
+2024-04-20,4,Raufoss,Bryne,0-1,0.0
+2024-04-20,4,Sogndal,Moss,1-0,1.0
+2024-04-20,4,Start,Sandnes Ulf,1-1,0.5
+2024-04-20,4,Lyn,Vålerenga,1-1,0.5
+2024-04-27,5,Aalesund,Raufoss,1-4,0.0
+2024-04-27,5,Bryne,Sogndal,1-0,1.0
+2024-04-27,5,Kongsvinger,Start,3-0,1.0
+2024-04-27,5,Moss,Egersund,1-2,0.0
+2024-04-27,5,Sandnes Ulf,Levanger,2-2,0.5
+2024-04-27,5,Åsane,Stabæk,2-2,0.5
+2024-04-28,5,Mjøndalen,Vålerenga,5-3,1.0
+2024-04-28,5,Lyn,Ranheim,1-1,0.5
+2024-05-04,6,Egersund,Lyn,1-1,0.5
+2024-05-04,6,Levanger,Sogndal,0-0,0.5
+2024-05-04,6,Mjøndalen,Aalesund,1-1,0.5
+2024-05-04,6,Raufoss,Åsane,1-0,1.0
+2024-05-04,6,Sandnes Ulf,Moss,3-3,0.5
+2024-05-04,6,Stabæk,Kongsvinger,5-0,1.0
+2024-05-04,6,Start,Ranheim,0-0,0.5
+2024-05-04,6,Vålerenga,Bryne,1-0,1.0
+2024-05-11,7,Aalesund,Vålerenga,0-2,0.0
+2024-05-11,7,Bryne,Mjøndalen,1-0,1.0
+2024-05-11,7,Kongsvinger,Raufoss,1-1,0.5
+2024-05-11,7,Lyn,Levanger,3-1,1.0
+2024-05-11,7,Moss,Stabæk,3-3,0.5
+2024-05-11,7,Ranheim,Egersund,1-3,0.0
+2024-05-11,7,Sogndal,Sandnes Ulf,5-1,1.0
+2024-05-11,7,Åsane,Start,1-0,1.0
+2024-05-16,8,Mjøndalen,Åsane,2-1,1.0
+2024-05-16,8,Aalesund,Sogndal,0-2,0.0
+2024-05-16,8,Levanger,Ranheim,2-2,0.5
+2024-05-16,8,Raufoss,Moss,0-2,0.0
+2024-05-16,8,Sandnes Ulf,Bryne,2-1,1.0
+2024-05-16,8,Stabæk,Lyn,2-2,0.5
+2024-05-16,8,Start,Egersund,4-3,1.0
+2024-05-16,8,Vålerenga,Kongsvinger,0-2,0.0
+2024-05-21,9,Moss,Start,2-1,1.0
+2024-05-22,9,Bryne,Aalesund,2-0,1.0
+2024-05-22,9,Egersund,Levanger,2-2,0.5
+2024-05-22,9,Kongsvinger,Mjøndalen,3-2,1.0
+2024-05-22,9,Ranheim,Stabæk,3-0,1.0
+2024-05-22,9,Sogndal,Raufoss,1-1,0.5
+2024-05-22,9,Åsane,Vålerenga,1-5,0.0
+2024-05-23,9,Lyn,Sandnes Ulf,5-0,1.0
+2024-05-26,10,Vålerenga,Levanger,3-1,1.0
+2024-05-27,10,Aalesund,Åsane,4-1,1.0
+2024-05-27,10,Bryne,Ranheim,3-2,1.0
+2024-05-27,10,Mjøndalen,Moss,1-2,0.0
+2024-05-27,10,Raufoss,Lyn,1-0,1.0
+2024-05-27,10,Sandnes Ulf,Kongsvinger,0-2,0.0
+2024-05-27,10,Stabæk,Egersund,4-5,0.0
+2024-05-28,10,Start,Sogndal,2-1,1.0
+2024-05-31,11,Lyn,Mjøndalen,1-1,0.5
+2024-06-01,11,Egersund,Raufoss,1-2,0.0
+2024-06-01,11,Kongsvinger,Bryne,3-1,1.0
+2024-06-01,11,Levanger,Start,1-1,0.5
+2024-06-01,11,Moss,Aalesund,1-0,1.0
+2024-06-01,11,Ranheim,Vålerenga,1-3,0.0
+2024-06-01,11,Sogndal,Stabæk,2-3,0.0
+2024-06-01,11,Åsane,Sandnes Ulf,1-0,1.0
+2024-06-05,2,Egersund,Åsane,1-0,1.0
+2024-06-09,12,Aalesund,Kongsvinger,4-4,0.5
+2024-06-09,12,Bryne,Åsane,1-0,1.0
+2024-06-09,12,Mjøndalen,Ranheim,3-3,0.5
+2024-06-09,12,Sogndal,Egersund,2-2,0.5
+2024-06-09,12,Start,Lyn,1-4,0.0
+2024-06-09,12,Vålerenga,Moss,5-1,1.0
+2024-06-12,4,Stabæk,Mjøndalen,4-2,1.0
+2024-06-16,13,Egersund,Vålerenga,1-1,0.5
+2024-06-16,13,Kongsvinger,Åsane,0-5,0.0
+2024-06-16,13,Levanger,Aalesund,4-0,1.0
+2024-06-16,13,Lyn,Sogndal,1-2,0.0
+2024-06-16,13,Moss,Bryne,1-0,1.0
+2024-06-16,13,Ranheim,Raufoss,1-0,1.0
+2024-06-16,13,Sandnes Ulf,Mjøndalen,2-3,0.0
+2024-06-16,13,Start,Stabæk,4-3,1.0
+2024-06-22,14,Sogndal,Kongsvinger,2-0,1.0
+2024-06-23,14,Aalesund,Ranheim,1-2,0.0
+2024-06-23,14,Bryne,Lyn,5-3,1.0
+2024-06-23,14,Mjøndalen,Egersund,0-3,0.0
+2024-06-23,14,Raufoss,Start,2-1,1.0
+2024-06-23,14,Stabæk,Levanger,1-0,1.0
+2024-06-23,14,Vålerenga,Sandnes Ulf,8-0,1.0
+2024-06-23,14,Åsane,Moss,1-4,0.0
+2024-07-20,15,Egersund,Bryne,0-2,0.0
+2024-07-20,15,Lyn,Åsane,3-1,1.0
+2024-07-20,15,Moss,Kongsvinger,1-0,1.0
+2024-07-20,15,Ranheim,Sogndal,3-0,1.0
+2024-07-20,15,Raufoss,Stabæk,0-0,0.5
+2024-07-20,15,Start,Vålerenga,1-2,0.0
+2024-07-23,12,Raufoss,Levanger,0-3,0.0
+2024-07-27,16,Aalesund,Egersund,2-3,0.0
+2024-07-27,16,Bryne,Sandnes Ulf,1-1,0.5
+2024-07-27,16,Kongsvinger,Levanger,3-3,0.5
+2024-07-27,16,Mjøndalen,Lyn,1-2,0.0
+2024-07-27,16,Sogndal,Start,4-0,1.0
+2024-07-27,16,Stabæk,Moss,1-4,0.0
+2024-07-27,16,Åsane,Raufoss,0-0,0.5
+2024-07-29,16,Vålerenga,Ranheim,3-1,1.0
+2024-07-31,12,Stabæk,Sandnes Ulf,3-0,1.0
+2024-08-03,17,Egersund,Sogndal,0-2,0.0
+2024-08-03,17,Levanger,Bryne,0-1,0.0
+2024-08-03,17,Moss,Vålerenga,0-2,0.0
+2024-08-03,17,Ranheim,Kongsvinger,2-2,0.5
+2024-08-03,17,Raufoss,Aalesund,0-2,0.0
+2024-08-03,17,Sandnes Ulf,Åsane,0-3,0.0
+2024-08-03,17,Start,Mjøndalen,1-0,1.0
+2024-08-04,17,Lyn,Stabæk,7-1,1.0
+2024-08-10,18,Aalesund,Moss,1-0,1.0
+2024-08-10,18,Mjøndalen,Sandnes Ulf,0-1,0.0
+2024-08-10,18,Sogndal,Levanger,1-1,0.5
+2024-08-10,18,Stabæk,Ranheim,3-0,1.0
+2024-08-10,18,Åsane,Bryne,2-5,0.0
+2024-08-11,18,Vålerenga,Raufoss,3-0,1.0
+2024-08-11,18,Egersund,Start,3-2,1.0
+2024-08-11,18,Kongsvinger,Lyn,1-1,0.5
+2024-08-14,15,Levanger,Mjøndalen,1-1,0.5
+2024-08-14,15,Sandnes Ulf,Aalesund,0-2,0.0
+2024-08-18,19,Levanger,Vålerenga,1-4,0.0
+2024-08-19,19,Raufoss,Egersund,4-1,1.0
+2024-08-19,19,Bryne,Kongsvinger,1-1,0.5
+2024-08-19,19,Lyn,Start,2-2,0.5
+2024-08-19,19,Moss,Sogndal,3-0,1.0
+2024-08-19,19,Ranheim,Mjøndalen,0-1,0.0
+2024-08-19,19,Sandnes Ulf,Stabæk,1-3,0.0
+2024-08-20,19,Åsane,Aalesund,2-0,1.0
+2024-08-24,20,Vålerenga,Lyn,4-2,1.0
+2024-08-25,20,Sogndal,Ranheim,0-2,0.0
+2024-08-26,20,Egersund,Moss,3-2,1.0
+2024-08-26,20,Aalesund,Bryne,1-2,0.0
+2024-08-26,20,Mjøndalen,Levanger,2-0,1.0
+2024-08-26,20,Stabæk,Åsane,1-1,0.5
+2024-08-26,20,Start,Raufoss,1-2,0.0
+2024-08-27,20,Kongsvinger,Sandnes Ulf,1-0,1.0
+2024-09-01,21,Sandnes Ulf,Vålerenga,0-2,0.0
+2024-09-01,21,Bryne,Stabæk,3-0,1.0
+2024-09-01,21,Moss,Mjøndalen,1-0,1.0
+2024-09-01,21,Lyn,Aalesund,0-0,0.5
+2024-09-02,21,Levanger,Egersund,2-1,1.0
+2024-09-02,21,Ranheim,Start,2-3,0.0
+2024-09-02,21,Raufoss,Sogndal,4-1,1.0
+2024-09-02,21,Åsane,Kongsvinger,2-1,1.0
+2024-09-15,22,Sogndal,Lyn,0-1,0.0
+2024-09-16,22,Egersund,Ranheim,0-2,0.0
+2024-09-16,22,Aalesund,Sandnes Ulf,2-0,1.0
+2024-09-16,22,Kongsvinger,Moss,0-0,0.5
+2024-09-16,22,Mjøndalen,Bryne,1-1,0.5
+2024-09-16,22,Stabæk,Raufoss,1-2,0.0
+2024-09-16,22,Start,Levanger,1-1,0.5
+2024-09-16,22,Vålerenga,Åsane,5-0,1.0
+2024-09-21,23,Kongsvinger,Aalesund,1-5,0.0
+2024-09-21,23,Bryne,Vålerenga,1-1,0.5
+2024-09-21,23,Levanger,Raufoss,0-1,0.0
+2024-09-21,23,Ranheim,Moss,1-0,1.0
+2024-09-21,23,Sandnes Ulf,Sogndal,1-0,1.0
+2024-09-21,23,Stabæk,Start,2-3,0.0
+2024-09-21,23,Åsane,Mjøndalen,5-0,1.0
+2024-09-24,24,Vålerenga,Aalesund,4-1,1.0
+2024-09-25,24,Egersund,Stabæk,2-1,1.0
+2024-09-25,24,Levanger,Lyn,1-3,0.0
+2024-09-25,24,Mjøndalen,Kongsvinger,1-2,0.0
+2024-09-25,24,Moss,Sandnes Ulf,6-1,1.0
+2024-09-25,24,Raufoss,Ranheim,1-1,0.5
+2024-09-25,24,Sogndal,Bryne,2-3,0.0
+2024-09-25,24,Start,Åsane,3-1,1.0
+2024-09-28,25,Aalesund,Mjøndalen,0-1,0.0
+2024-09-28,25,Bryne,Moss,3-0,1.0
+2024-09-28,25,Kongsvinger,Vålerenga,2-2,0.5
+2024-09-28,25,Ranheim,Levanger,1-1,0.5
+2024-09-28,25,Sandnes Ulf,Start,0-4,0.0
+2024-09-28,25,Stabæk,Sogndal,2-0,1.0
+2024-09-28,25,Åsane,Egersund,1-2,0.0
+2024-09-29,25,Lyn,Raufoss,1-2,0.0
+2024-10-02,23,Lyn,Egersund,2-1,1.0
+2024-10-02,26,Levanger,Stabæk,1-2,0.0
+2024-10-02,26,Raufoss,Sandnes Ulf,1-1,0.5
+2024-10-02,26,Vålerenga,Mjøndalen,4-2,1.0
+2024-10-05,26,Sogndal,Aalesund,0-1,0.0
+2024-10-05,26,Start,Bryne,2-1,1.0
+2024-10-06,26,Egersund,Kongsvinger,0-1,0.0
+2024-10-06,26,Moss,Åsane,1-1,0.5
+2024-10-06,26,Ranheim,Lyn,1-1,0.5
+2024-10-21,27,Aalesund,Start,3-1,1.0
+2024-10-21,27,Bryne,Raufoss,1-0,1.0
+2024-10-21,27,Kongsvinger,Stabæk,1-3,0.0
+2024-10-21,27,Mjøndalen,Sogndal,0-0,0.5
+2024-10-21,27,Sandnes Ulf,Lyn,0-1,0.0
+2024-10-21,27,Vålerenga,Egersund,4-0,1.0
+2024-10-21,27,Moss,Levanger,5-1,1.0
+2024-10-21,27,Åsane,Ranheim,1-2,0.0
+2024-10-25,28,Stabæk,Vålerenga,1-2,0.0
+2024-10-26,28,Egersund,Mjøndalen,3-1,1.0
+2024-10-26,28,Levanger,Sandnes Ulf,4-0,1.0
+2024-10-26,28,Lyn,Bryne,1-0,1.0
+2024-10-26,28,Ranheim,Aalesund,0-1,0.0
+2024-10-26,28,Raufoss,Kongsvinger,1-1,0.5
+2024-10-26,28,Sogndal,Åsane,0-2,0.0
+2024-10-26,28,Start,Moss,1-1,0.5
+2024-11-02,29,Aalesund,Levanger,4-3,1.0
+2024-11-02,29,Bryne,Egersund,2-1,1.0
+2024-11-02,29,Kongsvinger,Sogndal,0-1,0.0
+2024-11-02,29,Mjøndalen,Stabæk,3-0,1.0
+2024-11-02,29,Moss,Raufoss,3-2,1.0
+2024-11-02,29,Sandnes Ulf,Ranheim,2-6,0.0
+2024-11-02,29,Vålerenga,Start,1-1,0.5
+2024-11-02,29,Åsane,Lyn,3-2,1.0
+2024-11-09,30,Egersund,Sandnes Ulf,3-1,1.0
+2024-11-09,30,Levanger,Åsane,2-3,0.0
+2024-11-09,30,Lyn,Moss,1-2,0.0
+2024-11-09,30,Ranheim,Bryne,1-4,0.0
+2024-11-09,30,Raufoss,Mjøndalen,0-1,0.0
+2024-11-09,30,Sogndal,Vålerenga,0-3,0.0
+2024-11-09,30,Stabæk,Aalesund,1-4,0.0
+2024-11-09,30,Start,Kongsvinger,1-4,0.0
