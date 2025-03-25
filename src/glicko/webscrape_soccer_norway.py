@@ -4,6 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 from bs4 import BeautifulSoup
+from bs4 import Tag
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
@@ -86,41 +87,42 @@ def scrape_nifs_all(url: str) -> pd.DataFrame:
 
     data = []
     for row in match_rows:
-        # Extract date from <div class="tid"> (often in an <a> tag)
-        date_div = row.find("div", class_="tid")
-        date_text = ""
-        round_text = ""
-        result_text = ""
-        if date_div:
-            date_link = date_div.find("a")  # e.g. <a href="...">2024-04-01</a>
-            date_text = date_link.get_text(strip=True) if date_link else ""
+        if isinstance(row, Tag):
+            # Extract date from <div class="tid"> (often in an <a> tag)
+            date_div = row.find("div", class_="tid")
+            date_text = ""
+            round_text = ""
+            result_text = ""
+            if date_div:
+                date_link = date_div.find("a") if isinstance(date_div, Tag) else None
+                date_text = date_link.get_text(strip=True) if date_link else ""
 
-            if match := re.search(r"Runde\s+(\d+)", date_div.get_text(strip=True)):
-                round_text = match[1]
+                if match := re.search(r"Runde\s+(\d+)", date_div.get_text(strip=True)):
+                    round_text = match[1]
 
-        # Extract the two teams from <div class="kamp"> elements
-        # Typically one for home, one for away, in the same "en_kamp" block
-        teams = row.find_all("div", class_="kamp")
-        text = teams[0].get_text(strip=True)
-        # 2) Replace any sequence of one or more whitespace characters (spaces, newlines, etc.) with a single space
-        text = re.sub(r"\s+", " ", text)
+            # Extract the two teams from <div class="kamp"> elements
+            # Typically one for home, one for away, in the same "en_kamp" block
+            teams = row.find_all("div", class_="kamp")
+            text = teams[0].get_text(strip=True)
+            # 2) Replace any sequence of one or more whitespace characters (spaces, newlines, etc.) with a single space
+            text = re.sub(r"\s+", " ", text)
 
-        # 3) Split on the dash, allowing for optional spaces around it
-        home_team, away_team = [part.strip() for part in re.split(r"\s*-\s*", text)]
+            # 3) Split on the dash, allowing for optional spaces around it
+            home_team, away_team = [part.strip() for part in re.split(r"\s*-\s*", text)]
 
-        result_div = row.find("div", class_="res")
-        if result_div:
-            result_text = result_div.get_text(strip=True).split("(")[0]
+            result_div = row.find("div", class_="res")
+            if result_div:
+                result_text = result_div.get_text(strip=True).split("(")[0]
 
-        data.append(
-            {
-                "Date": date_text,
-                "Round": round_text,
-                "HomeTeam": home_team,
-                "AwayTeam": away_team,
-                "Result": result_text,
-            }
-        )
+            data.append(
+                {
+                    "Date": date_text,
+                    "Round": round_text,
+                    "HomeTeam": home_team,
+                    "AwayTeam": away_team,
+                    "Result": result_text,
+                }
+            )
 
     df_result = pd.DataFrame(data)
     df_result["Outcome"] = df_result["Result"].apply(outcome)
@@ -132,4 +134,4 @@ if __name__ == "__main__":
     # Results from Norway soccer league, level 2, 2024
     url = "https://www.nifs.no/kamper.php?countryId=1&tournamentId=6&stageId=694962"
     df = scrape_nifs_all(url)
-    df.to_csv(data_dir / "soccer_norway_level2_2023.csv", index=False)
+    df.to_csv(data_dir / "soccer_norway_level2_2024.csv", index=False)
