@@ -8,7 +8,7 @@ from glicko.models import PlayerRating
 class TestUpdateAllPlayers:
 
     # Testing with the example data and solution given in the paper
-    def test_example_from_paper(self):
+    def test_example_from_paper(self) -> None:
         # Arrange
         player_ratings = {
             "player0": PlayerRating(1500, 200),

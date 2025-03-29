@@ -89,7 +89,7 @@ def update_player(
     d2 = d_squared(player.rating, opponents_rating)
     pre_factor = Q / (1 / player.rd**2 + 1 / d2)
 
-    delta_sum = 0
+    delta_sum = 0.0
     for opponent, score in opponent_data:
         e_val = e(player.rating, opponent)
         g_rd_opponent = g(opponent.rd)
