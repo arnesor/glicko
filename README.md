@@ -25,6 +25,9 @@
 [black]: https://github.com/psf/black
 [poetry]: https://python-poetry.org/
 
+This library implements the Glicko rating system as described in
+[this paper](https://www.glicko.net/glicko/glicko.pdf).
+
 ## Features
 
 - TODO
@@ -69,6 +72,7 @@ This project was generated from [Statistics Norway]'s [SSB PyPI Template].
 [ssb pypi template]: https://github.com/statisticsnorway/ssb-pypitemplate
 [file an issue]: https://github.com/arnesor/glicko/issues
 [pip]: https://pip.pypa.io/
+
 
 <!-- github-only -->
 
