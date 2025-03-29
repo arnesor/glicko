@@ -4,11 +4,24 @@ from dataclasses import dataclass
 
 @dataclass(frozen=True)
 class Match:
+    """Represents a match between two players with a specific result format.
+
+    A Match encapsulates the details of a game between two players and its result in a
+    predefined format. The result must follow the format "<integer>-<integer>", where
+    the first integer represents the score of player1 and the second integer represents
+    the score of player2.
+
+    Attributes:
+        player1: The name of the first player in the match.
+        player2: The name of the second player in the match.
+        result: The result of the match in the format "integer-integer".
+    """
+
     player1: str
     player2: str
     result: str
 
-    def __post_init__(self):
+    def __post_init__(self) -> None:
         # Regular expression for format: integer-dash-integer (e.g., "13-2")
         if not re.fullmatch(r"\d+-\d+", self.result):
             raise ValueError(
@@ -52,5 +65,16 @@ class Match:
 
 @dataclass
 class PlayerRating:
+    """Represents a player's rating in a competitive system.
+
+    This class is used to manage and encapsulate a player's rating and rating
+    deviation (RD).
+
+    Attributes:
+        rating: The player's rating, typically at a default starting point of 1500.0.
+        rd: The player's rating deviation, representing the uncertainty
+            in the player's rating, defaulting to 350.0.
+    """
+
     rating: float = 1500.0
     rd: float = 350.0
