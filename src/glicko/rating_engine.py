@@ -7,7 +7,19 @@ from .models import PlayerRating
 def create_rating_periods(
     match_df: pd.DataFrame, strategy: str, rating_periods: int
 ) -> pd.DataFrame:
-    """Create rating periods based on the match data and a spe cified strategy."""
+    """Create rating periods for a given match dataframe.
+
+    The function assigns a new column "RatingPeriod" to the dataframe. The "rounds" strategy
+    splits the data into evenly distributed bins based on the "Round" column.
+
+    Args:
+        match_df: The dataframe containing match data, including a "Round" column.
+        strategy: The strategy used to assign rating periods. Currently, supports only "rounds".
+        rating_periods: The number of rating periods to divide the data into.
+
+    Returns:
+        The modified dataframe with an additional "RatingPeriod" column.
+    """
     if strategy == "rounds":
         # Assign the "RatingPeriod" column by grouping rounds into bins
         match_df["RatingPeriod"] = pd.cut(
@@ -41,7 +53,11 @@ def extract_matches(df: pd.DataFrame, period: int | None = None) -> list[Match]:
 
 
 def print_ratings(player_ratings: dict[str, PlayerRating]) -> None:
-    """Print player ratings sorted by the largest rating first."""
+    """Print player ratings sorted by the largest rating first.
+
+    Args:
+       player_ratings: A dictionary of player names and their associated ratings.
+    """
     sorted_ratings = sorted(
         player_ratings.items(), key=lambda x: x[1].rating, reverse=True
     )
