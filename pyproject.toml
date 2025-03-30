@@ -11,10 +11,9 @@ dynamic = [ "classifiers" ]
 requires-python = ">=3.11,<4.0"
 dependencies = [
     "click (>=8.1.8,<9.0.0)",
-    "requests (>=2.32.3,<3.0.0)",
     "beautifulsoup4 (>=4.13.3,<5.0.0)",
     "pandas (>=2.2.3,<3.0.0)",
-    "selenium (>=4.30.0,<5.0.0)"
+    "selenium (>=4.30.0,<5.0.0)",
 ]
 
 [project.urls]
@@ -52,6 +51,7 @@ typeguard = ">=2.13.3"
 xdoctest = { extras = ["colors"], version = ">=0.15.10" }
 myst-parser = { version = ">=0.16.1" }
 pandas-stubs = ">=2.2.3.250308"
+deptry = ">=0.23.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
@@ -151,3 +151,6 @@ classmethod-decorators = ["classmethod", "validator", "root_validator", "pydanti
     "D103",
     "S101",    # asserts are encouraged in pytest
 ]
+
+[tool.deptry]
+known_first_party = ["glicko"]
