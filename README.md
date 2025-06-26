@@ -46,7 +46,14 @@ pip install glicko
 
 ## Usage
 
-Please see the [Reference Guide] for details.
+Please see the [Reference Guide] for API details.
+
+The example directory contains two examples showing how to use the library:
+One with soccer results, and one with table tennis results.
+
+### File format
+The results should be stored in a csv file and contain the required columns:
+`HomeTeam`, `AwayTeam`, and `Result`. Optional columns: `Date`and `Round`.
 
 ## Contributing
 
