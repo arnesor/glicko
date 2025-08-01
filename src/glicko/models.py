@@ -78,3 +78,6 @@ class PlayerRating:
 
     rating: float = 1500.0
     rd: float = 350.0
+
+    def __str__(self) -> str:
+        return f"PlayerRating(rating={self.rating:.1f}, rd={self.rd:.1f})"
